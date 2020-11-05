@@ -1,0 +1,11 @@
+{
+  "name": "kinetic-typography-1",
+  "version": "1.0.0",
+  "description": "Creative Coding Tutorial (PIXI.js) : Kinetic Typography #1",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm dev"
+  },
+  "author": "song",
+  "license": "ISC"
+}

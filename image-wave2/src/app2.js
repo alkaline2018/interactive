@@ -31,7 +31,7 @@ class App {
     };
 
     this.image = new Image();
-    this.image.src = "./jofall.jpg";
+    this.image.src = "./zoo.jpg";
     this.image.onload = () => {
       this.isLoaded = true;
       this.drawImage();
